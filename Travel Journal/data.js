@@ -1,0 +1,48 @@
+export default [
+    {   
+        id: 1,
+        title: "Golden Temple",
+        location: "Punjab, India",
+        googleMapsUrl: "https://maps.app.goo.gl/utWMhKPiiCwZBugKA",
+        startDate: "12 Jan, 2006",
+        description: "The Golden Temple is considered the holiest site in Sikhism and is a place of worship and pilgrimage for Sikhs from around the world. The temple is known for its stunning architecture, gold-plated exterior, and its location in the middle of a sacred pool known as the Amrit Sarovar.",
+        imageUrl: "goldentemple.jpg",
+    },
+    {   
+        id: 2,
+        title: "India Gate",
+        location: "New Delhi, India",
+        googleMapsUrl: "https://maps.app.goo.gl/W4Cb6KnKEAYiRL2K7",
+        startDate: "24 feb, 2005",
+        description: "India Gate is a war memorial located in New Delhi, India.The India Gate was designed by Sir Edwin Lutyens and completed in 1931. It is a massive archway made of sandstone and bears the names of more than 13,000 Indian and British soldiers who died in the Afghan Wars and World War I.",
+        imageUrl: "India-Gate.jpg",
+    },
+    {   
+        id: 3,
+        title: "Payyambalam Beach",
+        location: "Kerala, India",
+        googleMapsUrl: "https://maps.app.goo.gl/niTLKbWfAwQ2hQW39",
+        startDate: "1 March, 2023",
+        description: "Payyambalam Beach is a popular beach located in Kannur district of Kerala, India. It is situated near the Kannur town and is known for its scenic beauty, golden sand, and calm surroundings. The beach is a favorite destination among both locals and tourists.",
+        imageUrl: "payyambalam.jpg",
+    },
+    {   
+        id: 4,
+        title: "Bengaluru Palace",
+        location: "Karnataka, India",
+        googleMapsUrl: "https://maps.app.goo.gl/TzAixccyJdsG6oiK6",
+        startDate: "18 June, 2008",
+        description: "The Bengaluru Palace is a historic palace located in the heart of Bengaluru (Bangalore), Karnataka, India. It is a magnificent structure that reflects a mix of Tudor and Scottish Gothic architectural styles. The palace was built in 1887 by King Chamaraja Wodeyar of the Wodeyar dynasty, who were the rulers of the Kingdom of Mysore.",
+        imageUrl: "bglr_palace.jpg",
+    },
+    {   
+        id: 5,
+        title: "St Angelo Fort",
+        location: "Kannur, India",
+        googleMapsUrl: "https://maps.app.goo.gl/8m1iX4uG53drmmv78",
+        startDate: "21 March, 2021",
+        description: "St. Angelo Fort, also known as Kannur Fort, is a historic fort located in Kannur, a city in the Indian state of Kerala. St. Angelo Fort was built by the Portuguese in 1505 as a military stronghold. It was later captured by the Dutch in the 17th century and then came under the control of the British in the 18th century.",
+        imageUrl: "fort.jpg",
+    },
+    
+]
